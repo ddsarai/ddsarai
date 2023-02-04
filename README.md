@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="../ddsarai-media/PandaNinj.jpeg?raw=true" width=600>
 
 ---
 ### :detective::desktop_computer::chart_with_upwards_trend: About Me :  
@@ -21,7 +22,13 @@ I am an aspiring data scientist with a strong background in the social sciences 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddsarai&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsarai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ddsarai/ddsarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
