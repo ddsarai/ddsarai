@@ -7,8 +7,8 @@ I am an aspiring pandas ninja and data junkie from Toronto. With a strong backgr
 ---
 - 🔭 I’m currently working on: A bunch of projects to help develop my data sci skillset
 - 🌱 I’m currently learning: Javascript
-- 💬 Ask me about: How the history of statistics interscets with the development of the modern state
-- 📫 How to reach me: gmail
+- 💬 Ask me about: How the history of statistics intersects with the development of the modern state
+- 📫 How to reach me: gmail works great
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Iron Maiden is amazing music for data exploration!
 <!-- - 👯 I’m looking to collaborate on ... -->
