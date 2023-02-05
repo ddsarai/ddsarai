@@ -3,7 +3,16 @@
 
 ---
 ### :detective::desktop_computer::chart_with_upwards_trend: About Me :  
-I am an aspiring data scientist with a strong background in the social sciences from Toronto.
+I am an aspiring pandas ninja and data junkie from Toronto. With a strong background in the social sciences, I am always curious about where exploring the data can take you and fascinated at the insights that analytics can help to uncover.
+---
+- 🔭 I’m currently working on: A bunch of projects to help develop my data sci skillset
+- 🌱 I’m currently learning: Javascript
+- 💬 Ask me about: How the history of statistics interscets with the development of the modern state
+- 📫 How to reach me: gmail
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Iron Maiden is amazing music for data exploration!
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 ---
 ### :hammer_and_wrench:  Language and Tools :
 <div>
@@ -22,6 +31,7 @@ I am an aspiring data scientist with a strong background in the social sciences 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
+
 ---
 
 ### :fire: My Stats :
@@ -40,6 +50,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
