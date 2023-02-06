@@ -37,7 +37,7 @@ I am an aspiring pandas ninja and data junkie from Toronto. With a strong backgr
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddsarai&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsarai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&count-private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddsarai&layout=compact&theme=vision-friendly-dark&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ddsarai/ddsarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
